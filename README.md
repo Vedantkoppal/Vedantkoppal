@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working Large Language Models<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning AWS, C++, CMake , Chatbots<br>💬 I like machine learning and maths<br>
+🔭 I’m currently on working Large Language Models<br>🌱 I’m currently learning AWS, C++, CMake , Chatbots, Computer Vision<br>💬 I like machine learning and maths<br>
 
 
 ## 🌐 Socials:
